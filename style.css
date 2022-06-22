@@ -1,0 +1,33 @@
+.container{
+    width: 800px;
+    height: 500px;
+    background-color: green;
+    overflow:auto;
+    font-size: 25px;
+
+}
+.frist{
+    width: 100px;
+    height: 100px;
+    background-color:brown;
+    font-size: 30px;
+    color: #fff;
+    position: relative;
+    left: 400px;
+    top:300px;
+    
+}
+.second{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    font-size: 30px;
+    color: #fff;
+}
+.thrid{
+    width: 100px;
+    height: 100px;
+    background-color:coral;
+    font-size: 30px;
+    color: #fff;
+}
